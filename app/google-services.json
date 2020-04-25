@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510206522132",
+    "firebase_url": "https://fbauth-test-apr20.firebaseio.com",
+    "project_id": "fbauth-test-apr20",
+    "storage_bucket": "fbauth-test-apr20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510206522132:android:66ca8f77a8358fa6774801",
+        "android_client_info": {
+          "package_name": "ru.baken.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510206522132-ptp6q0t5cv80b0n7mcsqhct2f9pkd7v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.baken.firebaseauth",
+            "certificate_hash": "8c845321eafe66468c53ab15b6385d96de4f0fe2"
+          }
+        },
+        {
+          "client_id": "510206522132-nc1ah44flg49bpm6ml6vkmovait68tki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqrXtfV5RqIjy_LN6AqWlY-zlvhCog2ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510206522132-nc1ah44flg49bpm6ml6vkmovait68tki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
